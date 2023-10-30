@@ -20,24 +20,12 @@ In this project, let's fix the **Stopwatch** by applying the concepts we have le
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be fixed</summary>
+<summary>Functionality </summary>
 <br/>
-
-Fix the given code to have the following functionality
 
 - When the **Start** button is clicked, then the Stopwatch should start running
 - When the **Stop** button is clicked, then the Stopwatch should stop running
 - When the **Reset** button is clicked, then the Stopwatch should be reset to zero
-
-</details>
-
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- There are `10` bugs to be fixed to achieve the functionality and the UI that is expected
 
 </details>
 
